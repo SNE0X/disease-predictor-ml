@@ -1,4 +1,4 @@
-# Disease Predictor using Machine Learning 🩺
+# Disease Predictor using Machine Learning 
 
 A Streamlit web application that predicts diseases based on user-selected symptoms using Machine Learning models.
 
